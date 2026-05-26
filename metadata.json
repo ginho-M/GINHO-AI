@@ -1,0 +1,8 @@
+{
+  "name": "GINHO AI remix",
+  "description": "Ginho AI is a premium developer automation portal and metrics dashboard featuring smart coding assistants, PIN-secured administration, subscription configurations, and stakeholder analytics export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
